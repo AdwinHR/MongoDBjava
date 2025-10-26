@@ -1,0 +1,2039 @@
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 0
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 1
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 0
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 2
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 1
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 3
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 4
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 2
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 6
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 5
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 3
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 8
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 7
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 4
+Oct 27, 2025 1:41:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 10
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 6
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 9
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 5
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 12
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 8
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 11
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 7
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 14
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 10
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 13
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 9
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 16
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 12
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 15
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 11
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 18
+Oct 27, 2025 1:41:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 14
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 17
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 13
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 20
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 16
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 19
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 15
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 22
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 18
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 21
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 17
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 24
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 20
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 23
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 19
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 26
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 22
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 25
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 21
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 28
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 24
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 27
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 23
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 30
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 26
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 29
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 25
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 32
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 28
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 31
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 27
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 34
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 30
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 33
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 29
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 36
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 32
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 35
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 31
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 38
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 34
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 37
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 33
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 40
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 36
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 39
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 35
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 42
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 38
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 41
+Oct 27, 2025 1:41:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 37
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 44
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 40
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 43
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 39
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 46
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 42
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 45
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 41
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 48
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 44
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 47
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 43
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 50
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 46
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 49
+Oct 27, 2025 1:41:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 45
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 52
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 48
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 51
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 47
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 54
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 50
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 53
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 49
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 56
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 52
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 55
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 51
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 58
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 54
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 57
+Oct 27, 2025 1:41:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 53
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 60
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 56
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 59
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 55
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 62
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 58
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 61
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 57
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 64
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 60
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 63
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 59
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 66
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 62
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 65
+Oct 27, 2025 1:41:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 61
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 68
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 64
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 67
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 63
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 70
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 66
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 69
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 65
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 72
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 68
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 71
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 67
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 74
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 70
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 73
+Oct 27, 2025 1:41:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 69
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 76
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 72
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 75
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 71
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 78
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 74
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 77
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 73
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 80
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 76
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 79
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 75
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 82
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 78
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 81
+Oct 27, 2025 1:41:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 77
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 84
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 80
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 83
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 79
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 86
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 82
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 85
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 81
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 88
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 84
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 87
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 83
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 90
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 86
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 89
+Oct 27, 2025 1:41:48 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 85
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 92
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 88
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 91
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 87
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 94
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 90
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 93
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 89
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 96
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 92
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 95
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 91
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 98
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 94
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 97
+Oct 27, 2025 1:41:49 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 93
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 100
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 96
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 99
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 95
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 98
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 97
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 100
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: 
+=================================
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Final Odd Numbers: [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97]
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Final Even Numbers: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100]
+Oct 27, 2025 1:41:50 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: =================================
+Oct 27, 2025 1:42:34 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 0
+Oct 27, 2025 1:42:34 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 1
+Oct 27, 2025 1:42:34 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 0
+Oct 27, 2025 1:42:34 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 2
+Oct 27, 2025 1:42:34 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 1
+Oct 27, 2025 1:42:34 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 3
+Oct 27, 2025 1:42:34 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 4
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 2
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 5
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 6
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 3
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 8
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 7
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 4
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 10
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 5
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 9
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 6
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 12
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 8
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 11
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 7
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 14
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 10
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 13
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 9
+Oct 27, 2025 1:42:35 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 16
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 12
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 15
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 11
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 18
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 14
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 17
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 13
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 20
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 16
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 19
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 15
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 22
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 18
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 21
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 17
+Oct 27, 2025 1:42:36 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 24
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 20
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 23
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 19
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 26
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 22
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 25
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 21
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 28
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 24
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 27
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 23
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 30
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 26
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 29
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 25
+Oct 27, 2025 1:42:37 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 32
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 28
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 31
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 27
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 34
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 30
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 33
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 29
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 36
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 32
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 35
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 31
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 38
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 34
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 37
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 33
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 40
+Oct 27, 2025 1:42:38 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 36
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 39
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 35
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 42
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 38
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 41
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 37
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 44
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 40
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 43
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 39
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 46
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 42
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 45
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 41
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 48
+Oct 27, 2025 1:42:39 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 44
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 47
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 43
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 50
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 46
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 49
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 45
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 52
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 48
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 51
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 47
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 54
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 50
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 53
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 49
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 56
+Oct 27, 2025 1:42:40 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 52
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 55
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 51
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 58
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 54
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 57
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 53
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 60
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 56
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 59
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 55
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 62
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 58
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 61
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 57
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 64
+Oct 27, 2025 1:42:41 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 60
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 63
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 59
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 66
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 62
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 65
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 61
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 68
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 64
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 67
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 63
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 70
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 66
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 69
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 65
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 72
+Oct 27, 2025 1:42:42 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 68
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 71
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 67
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 74
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 70
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 73
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 69
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 76
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 72
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 75
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 71
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 78
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 74
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 77
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 73
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 80
+Oct 27, 2025 1:42:43 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 76
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 79
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 75
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 82
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 78
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 81
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 77
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 84
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 80
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 83
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 79
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 86
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 82
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 85
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 81
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 88
+Oct 27, 2025 1:42:44 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 84
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 87
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 83
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 90
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 86
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 89
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 85
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 92
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 88
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 91
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 87
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 94
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 90
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 93
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 89
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 96
+Oct 27, 2025 1:42:45 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 92
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 95
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 91
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 98
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 94
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 97
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 93
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 100
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 96
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 99
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 95
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 98
+Oct 27, 2025 1:42:46 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 97
+Oct 27, 2025 1:42:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 100
+Oct 27, 2025 1:42:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: 
+=================================
+Oct 27, 2025 1:42:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Final Odd Numbers: [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97]
+Oct 27, 2025 1:42:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Final Even Numbers: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100]
+Oct 27, 2025 1:42:47 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: =================================
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 0
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 1
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 0
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 2
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 1
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 3
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 4
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 2
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 5
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 6
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 3
+Oct 27, 2025 1:43:05 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 8
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 7
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 4
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 10
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 5
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 9
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 6
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 12
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 8
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 11
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 7
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 14
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 10
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 13
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 9
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 16
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 12
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 15
+Oct 27, 2025 1:43:06 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 11
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 18
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 14
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 17
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 13
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 20
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 16
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 19
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 15
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 22
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 18
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 21
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 17
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 24
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 20
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 23
+Oct 27, 2025 1:43:07 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 19
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 26
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 22
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 25
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 21
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 28
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 24
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 27
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 23
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 30
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 26
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 29
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 25
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 32
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 28
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 31
+Oct 27, 2025 1:43:08 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 27
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 34
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 30
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 33
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 29
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 36
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 32
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 35
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 31
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 38
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 34
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 37
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 33
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 40
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 36
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 39
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 35
+Oct 27, 2025 1:43:09 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 42
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 38
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 41
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 37
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 44
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 40
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 43
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 39
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 46
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 42
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 45
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 41
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 48
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 44
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 47
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 43
+Oct 27, 2025 1:43:10 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 50
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 46
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 49
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 45
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 52
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 48
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 51
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 47
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 54
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 50
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 53
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 49
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 56
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 52
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 55
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 51
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 58
+Oct 27, 2025 1:43:11 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 54
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 57
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 53
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 60
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 56
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 59
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 55
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 62
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 58
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 61
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 57
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 64
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 60
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 63
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 59
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 66
+Oct 27, 2025 1:43:12 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 62
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 65
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 61
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 68
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 64
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 67
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 63
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 70
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 66
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 69
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 65
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 72
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 68
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 71
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 67
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 74
+Oct 27, 2025 1:43:13 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 70
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 73
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 69
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 76
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 72
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 75
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 71
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 78
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 74
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 77
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 73
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 80
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 76
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 79
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 75
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 82
+Oct 27, 2025 1:43:14 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 78
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 81
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 77
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 84
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 80
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 83
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 79
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 86
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 82
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 85
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 81
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 88
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 84
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 87
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 83
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 90
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 86
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 89
+Oct 27, 2025 1:43:15 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 85
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 92
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 88
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 91
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 87
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 94
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 90
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 93
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 89
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 96
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 92
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 95
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 91
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 98
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 94
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 97
+Oct 27, 2025 1:43:16 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 93
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: EvenProducer Produced: 100
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Queue full → Producer waiting...
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 96
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: OddProducer Produced: 99
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 95
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 98
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 97
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Consumer Consumed: 100
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: 
+=================================
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Final Odd Numbers: [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97]
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: Final Even Numbers: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100]
+Oct 27, 2025 1:43:17 AM com.Rest.RestAPI.ProducerConsumerExampleLogs log
+INFO: =================================
